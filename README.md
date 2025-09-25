@@ -34,5 +34,3 @@ Built using the **Pima Indians Diabetes Dataset** and trained with multiple clas
 - **Target:** Outcome (0 = Not Diabetic, 1 = Diabetic)
 
 ---
-   git clone https://github.com/your-username/diabetes-prediction-system.git
-   cd diabetes-prediction-system
