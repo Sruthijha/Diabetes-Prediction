@@ -1,4 +1,4 @@
-🩺 Diabetes Prediction System  
+## 🩺 Diabetes Prediction System  
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikit-learn)
